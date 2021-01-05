@@ -10,14 +10,3 @@
 // arrayVacuum[3] = 40;
 // arrayVacuum[24] = true;
 // console.log(arrayVacuum);
-
-
-// let n1 = prompt('введите не целое число');
-// let n2 = prompt('введите не целое число');
-// let n3 = prompt('введите не целое число');
-// let result = Math.round(n1+n2+n3);
-// console.log(result);
-
-// let n1 = promt();
-// let n2 = prompt();
-// let n3 = prompt();
